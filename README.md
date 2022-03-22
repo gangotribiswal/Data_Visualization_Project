@@ -8,6 +8,7 @@ This project provides a detailed analysis of the Citi bike trip which will help 
 # Dataset
 
 https://www.citibikenyc.com/system-data
+
 https://s3.amazonaws.com/tripdata/index.html 
 
 # Tableau Dashboard
@@ -18,3 +19,5 @@ https://s3.amazonaws.com/tripdata/index.html
 
 <img width="1133" alt="Screen Shot 2022-03-22 at 2 06 26 PM" src="https://user-images.githubusercontent.com/78765097/159576085-883a0640-c363-4e92-85bd-1d0f18e69029.png">
 
+# Tableau Public
+https://public.tableau.com/app/profile/gangotri.biswal/viz/DATA230_DV_Project1/FinalDashboard
